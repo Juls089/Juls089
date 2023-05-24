@@ -1,4 +1,3 @@
 # Juls
 
-Juls089/JD_logs
-
+![](https://geps.dev/progress/75)
